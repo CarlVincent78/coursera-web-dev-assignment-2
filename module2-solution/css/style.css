@@ -8,26 +8,27 @@ p {
 }
 * {
     box-sizing: border-box;
+    font-family: "Comic Sans MS";
 }
 #box {
     background-color: gray;
-    border: 1px solid black;
+    border: 3px solid black;
     float: left;
 }
 #title{
     background-color: pink;
-    border-left: 1px solid black;
-    border-bottom: 1px solid black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
     float: right;
     width: auto;
     padding-left: 5%;
     padding-right: 5%;
 }
 #title2{
-  background-color: red;
+  background-color: indianred;
   color: white;
-  border-left: 1px solid black;
-  border-bottom: 1px solid black;
+  border-left: 3px solid black;
+  border-bottom: 3px solid black;
   float: right;
   width: auto;
   padding-left: 5%;
@@ -35,8 +36,8 @@ p {
 }
 #title3{
   background-color: palegoldenrod;
-  border-left: 1px solid black;
-  border-bottom: 1px solid black;
+  border-left: 3px solid black;
+  border-bottom: 3px solid black;
   float: right;
   width: auto;
   padding-left: 5%;
